@@ -1,7 +1,7 @@
-h1 {
+h2 {
 		font-family: "Arial Black", Gadget, sans-serif
 }
 img {
-    width: 700px;
-    height: 720px;
+    width: auto;
+    height: 100vh;
 }
