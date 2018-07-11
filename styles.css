@@ -38,6 +38,9 @@ p.introitallics {
 	font-style: italic;
 	font-size: 14px;
 }
+p.hikeinfo {
+	font-weight: bold;
+}
 a {
 	text-decoration: none;
 	color: lightgray;
