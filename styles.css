@@ -16,7 +16,7 @@ hr {
 	margin-bottom: 4rem;
 	width: 80%;
 }
-h1.dutchlamb {
+h1.actf {
 	color: #0DFF91;
 }
 h1.placetitle {
@@ -27,6 +27,12 @@ h2 {
 }
 h3 {
 	color: white;
+}
+h3.zuruck {
+	color: darkgrey;
+	font-weight: bold;
+	font-size: 15px;
+	margin-top: 5px;
 }
 p {
 	color: white;
